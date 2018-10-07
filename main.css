@@ -1,0 +1,44 @@
+body {
+    color: #eee;
+    background:#333;
+}
+
+
+
+.box-one {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.box-one h3 {
+    font-size: 35px;
+    color:#eee;
+
+}
+.box-one p {
+    font-size: 20px;
+    color:#eee;
+}
+
+/* lists  */
+.material-icons {
+    font-size: 48px;
+    margin-left: 100px;
+    /* margin-right: 34.4px; */
+}
+
+
+.footer section {
+    width: 100%;
+    height: 200px;
+    background-image: url("wave.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+span {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
